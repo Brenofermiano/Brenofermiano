@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋 Eu sou Breno</h1>
 
-<p align="left">Tenho 28 anos, sou aluno em busca da primeira oportunidade emprego tenho experiencia:<br>🧑🏿‍💻: JavaScript<br>🧑🏿‍💻: React <br>🧑🏿‍💻: Atualmente estou estudando Typescript..!</p>
+<p align="left">🧑🏿‍💻: JavaScript<br>🧑🏿‍💻: React <br>🧑🏿‍💻: Atualmente estou estudando Typescript..!</p>
 
 <h2 align="left"></h2>
 
