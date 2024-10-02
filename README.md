@@ -1,6 +1,14 @@
 <h1 align="left">Olá 👋 Eu sou Breno</h1>
 
-<p align="left">🧑🏿‍💻: JavaScript<br>🧑🏿‍💻: React <br>🧑🏿‍💻: Atualmente estou estudando Typescript..!</p>
+<p align="left">Olá, sou Breno Gonçalves, sou um dev apaixonado por tecnologia!
+
+Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade viram código.
+
+- 💬 Ask me about anything 
+- 📫 Como entrar em contato comigo: breno999a@gmail.com
+  
+  
+  🧑🏿‍💻: JavaScript<br>🧑🏿‍💻: React <br>🧑🏿‍💻: Atualmente estou estudando Typescript..!</p>
 
 <h2 align="left"></h2>
 
