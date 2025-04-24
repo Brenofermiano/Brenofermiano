@@ -8,7 +8,7 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 - 📫 Como entrar em contato comigo: breno999a@gmail.com
   
   
-  🧑🏿‍💻: JavaScript<br>🧑🏿‍💻: React <br>🧑🏿‍💻: Typescript..! <br> 🧑🏿‍💻: estudando NextJs..!</p>
+  🧑🏿‍💻: Java<br>🧑🏿‍💻: JavaScript <br>🧑🏿‍💻: Typescript..! <br></p>
 
 <h2 align="left"></h2>
 
